@@ -1,3 +1,48 @@
+/* common styles  */
+h2{
+	font-size: 24px;
+	font-weight: 700;
+	width: 243px;
+	height: 52.2;
+	margin-top: 87px;
+	margin-left: 120px;
+}
+
+.container-1{
+	display: flex;
+}
 h1{
-	color: aqua;
+	font-size: 52px;
+	width: 582px;
+	 
+	margin-top: 145.8px;
+	margin-left: 120px;
+}
+ 
+p {
+	width: 505px;
+	 
+	margin-left: 120px;
+	 
+}
+.preebook{
+	color: wheat;
+	background-color:   #E02C6D;
+	padding: 10PX;
+	border-radius: 15PX;
+
+	margin-left: 120px;
+}
+.start-camera img{
+	width: 440px;
+	height: 414px;
+	margin-top: 20px;
+	margin-left: 140px;
+}
+/* ------------.
+container-2
+------ -------*/
+.collection-header{
+	text-align: center;
+	font-size: 28px;
 }
